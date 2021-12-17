@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Blend files
+.blend1
+
+# Mac files
+.DS_Store
+
+
