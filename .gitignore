@@ -134,4 +134,9 @@ dmypy.json
 # Mac files
 .DS_Store
 
-
+*.png
+*.tif
+*.npz
+*.pth
+nerf/cache/*
+nerf/weights/*
