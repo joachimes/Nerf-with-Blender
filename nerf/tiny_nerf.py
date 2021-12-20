@@ -647,7 +647,7 @@ if __name__ == "__main__":
     # Number of functions used in the positional encoding (Be sure to update the
     # model if this number changes).
     num_encoding_functions = 6
-    depth_samples = 64
+    depth_samples = 110
     focal = np.array([40.]) 
     chunk_size = 4096*64
     layer_size = 64
